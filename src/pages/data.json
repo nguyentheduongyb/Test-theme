@@ -1,0 +1,89 @@
+{
+        "name": "Tour Test ItourGo",
+        "tour_code":"",
+        "location":"Phú Quốc",
+        "period":"2 ngày 1 đêm",
+        "vehicle":["plane","car"],
+        "images":[],
+        "numberOfGuest":"5 khách trong 24h qua",
+        "describe":[
+                {
+                        "name":"Trung Hoa Cổ Kính",
+                        "detail":"<p>Nổi tiếng với những điểm đến hấp dẫn và đầy thú vị tại Tây Bắc Trung Quốc. Lệ Giang vùng đất nổi tiếng với phong cảnh đẹp như tranh vẽ, với những con đường đèo vắt eo biến tấu khúc khuỷu, những dòng sông xanh ngắt quấn quýt xuyên qua những thị trấn cổ kính, những ngọn núi cao trùng điệp mời gọi du khách đến khám phá. Đến Shangri-la chiêm ngưỡng những cảnh quan thiên nhiên độc đáo, hòa mình vào văn hóa và phong tục tập quán truyền thống của người dân địa phương. Cùng iVIVU khám phá ngay hôm nay!</p>"
+                },
+                {
+                        "name":"Những trải nghiệm thú vị trong chương trình",
+                        "detail":"<div class='p-3'><p class=mb-2'>- Thành cổ Đại Lý  - trong bộ phim Thiên Long Bát bộ của nhà văn Kim Dung. Đại Lý được nhắc tới trong các tiểu thuyết như một vùng đất xinh đẹp, trù phú. Ngày nay, đây là điểm du lịch hút khách với các công trình kiến trúc cổ, văn hóa và ẩm thực đặc sắc.</p><p class='mb-2'>- Hương Cách Lý Lạp (Shangrila) - “Vùng đất bất tử” trong tiểu thuyết Lost Horizon (chân trời đã mất), của nhà văn Anh James Hilton. Được mệnh danh là thung lũng bất tử bởi lẽ cảnh sắc nơi đây quanh năm luôn rực rỡ và tươi đẹp.</p><p class='mb-2'>- Công viên Quốc gia Phổ Đạt Thố - Potatso National Park – Thiên nhiên nơi xứng đáng được mệnh danh là chốn tiên cảnh với những cảnh quan núi cao tuyết trắng, rừng xanh nắng vàng, thi thoảng lại ẩn hiện trong sương khói với một hệ động thực vật vô cùng phong phú</p></div>"
+                },
+                {
+                        "name":"Trung Hoa Cổ Kính",
+                        "detail":"<p>Nổi tiếng với những điểm đến hấp dẫn và đầy thú vị tại Tây Bắc Trung Quốc. Lệ Giang vùng đất nổi tiếng với phong cảnh đẹp như tranh vẽ, với những con đường đèo vắt eo biến tấu khúc khuỷu, những dòng sông xanh ngắt quấn quýt xuyên qua những thị trấn cổ kính, những ngọn núi cao trùng điệp mời gọi du khách đến khám phá. Đến Shangri-la chiêm ngưỡng những cảnh quan thiên nhiên độc đáo, hòa mình vào văn hóa và phong tục tập quán truyền thống của người dân địa phương. Cùng iVIVU khám phá ngay hôm nay!</p>"
+                }
+
+        ],
+        "schedule":[
+                {
+                        "schedule_name":"TP HCM - ĐN - HN",
+                        "schedule_detail":"<p><strong>Sáng:</strong> Quý khách có mặt tại ga quốc nội, sân bay Tân Sơn Nhất trước giờ bay ít nhất ba tiếng<strong>.</strong></p><ul><li style='text-align: justify;'>Đại diện công ty <strong>Du Lịch Việt</strong> đón và hỗ trợ Quý Khách làm thủ tục đón chuyến bay đi <strong>Đà Nẵng.</strong></li><li style='text-align: justify;'>Đến sân bay<strong>,</strong> Hướng dẫn viên đón đoàn Tham quan <strong>Ngũ Hành Sơn</strong> - được ví như hòn non bộ khổng lồ giữa lòng thành phố Đà Nẵng với <strong>Động Huyền Không, Chùa Linh Ứng, Chùa Tam Thai, Vọng Hải Đài</strong>, …mua sắm quà lưu niệm tại làng nghề điêu khắc đá Non Nước.</li></ul><strong>Trưa:</strong>&nbsp;&nbsp; Dùng cơm trưa.<ul><li>Đến <strong>Hội An</strong>, tham quan <strong>Phố Cổ Hội An</strong> -<em> di sản văn hoá thế giới với Chùa Cầu Nhật Bản, Hội Quán Phúc Kiến, Nhà Cổ Phùng Hưng</em>…</li></ul>&nbsp;<div style='text-align: center;'><img alt='' src='/images/bandidau/NOI-DIA/Da-Nang/pho-co-hoi-an-du-lich-hoi-an-2023.jpg' style='width: 700px; height: 389px;'><br><em>Phố cổ Hội An</em><br>&nbsp;</div><strong>Chiều:</strong>&nbsp; Dùng cơm chiều.<ul><li>Trải nghiệm Show diễn <strong>“Ký Ức Hội An”, </strong>chương trình<strong> </strong>văn hóa nghệ thuật ngoài trời độc đáo, với sự tổng hòa tinh tế của âm nhạc, thơ ca, ánh sáng, nghệ thuật trình diễn 3D, tạo hình, múa… Vở diễn là câu chuyện tái hiện lại những nét văn hóa đặc trưng của Hội An 400 năm lịch sử với cuộc sống thôn quê bình dị, tới những nét hoàng kim của một thương cảng sầm uất một thời. <em>(chi phí tự túc)</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li>Đoàn trở về, nghỉ đêm tại <strong>Đà Nẵng</strong>.</li></ul><p></p>"
+                },
+                {
+                        "schedule_name":"TP HCM - ĐN - HN",
+                        "schedule_detail":"<p><strong>Sáng:</strong> Quý khách có mặt tại ga quốc nội, sân bay Tân Sơn Nhất trước giờ bay ít nhất ba tiếng<strong>.</strong></p><ul><li style='text-align: justify;'>Đại diện công ty <strong>Du Lịch Việt</strong> đón và hỗ trợ Quý Khách làm thủ tục đón chuyến bay đi <strong>Đà Nẵng.</strong></li><li style='text-align: justify;'>Đến sân bay<strong>,</strong> Hướng dẫn viên đón đoàn Tham quan <strong>Ngũ Hành Sơn</strong> - được ví như hòn non bộ khổng lồ giữa lòng thành phố Đà Nẵng với <strong>Động Huyền Không, Chùa Linh Ứng, Chùa Tam Thai, Vọng Hải Đài</strong>, …mua sắm quà lưu niệm tại làng nghề điêu khắc đá Non Nước.</li></ul><strong>Trưa:</strong>&nbsp;&nbsp; Dùng cơm trưa.<ul><li>Đến <strong>Hội An</strong>, tham quan <strong>Phố Cổ Hội An</strong> -<em> di sản văn hoá thế giới với Chùa Cầu Nhật Bản, Hội Quán Phúc Kiến, Nhà Cổ Phùng Hưng</em>…</li></ul>&nbsp;<div style='text-align: center;'><img alt='' src='/images/bandidau/NOI-DIA/Da-Nang/pho-co-hoi-an-du-lich-hoi-an-2023.jpg' style='width: 700px; height: 389px;'><br><em>Phố cổ Hội An</em><br>&nbsp;</div><strong>Chiều:</strong>&nbsp; Dùng cơm chiều.<ul><li>Trải nghiệm Show diễn <strong>“Ký Ức Hội An”, </strong>chương trình<strong> </strong>văn hóa nghệ thuật ngoài trời độc đáo, với sự tổng hòa tinh tế của âm nhạc, thơ ca, ánh sáng, nghệ thuật trình diễn 3D, tạo hình, múa… Vở diễn là câu chuyện tái hiện lại những nét văn hóa đặc trưng của Hội An 400 năm lịch sử với cuộc sống thôn quê bình dị, tới những nét hoàng kim của một thương cảng sầm uất một thời. <em>(chi phí tự túc)</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li>Đoàn trở về, nghỉ đêm tại <strong>Đà Nẵng</strong>.</li></ul><p></p>"
+                },
+                {
+                        "schedule_name":"TP HCM - ĐN - HN",
+                        "schedule_detail":"<p><strong>Sáng:</strong> Quý khách có mặt tại ga quốc nội, sân bay Tân Sơn Nhất trước giờ bay ít nhất ba tiếng<strong>.</strong></p><ul><li style='text-align: justify;'>Đại diện công ty <strong>Du Lịch Việt</strong> đón và hỗ trợ Quý Khách làm thủ tục đón chuyến bay đi <strong>Đà Nẵng.</strong></li><li style='text-align: justify;'>Đến sân bay<strong>,</strong> Hướng dẫn viên đón đoàn Tham quan <strong>Ngũ Hành Sơn</strong> - được ví như hòn non bộ khổng lồ giữa lòng thành phố Đà Nẵng với <strong>Động Huyền Không, Chùa Linh Ứng, Chùa Tam Thai, Vọng Hải Đài</strong>, …mua sắm quà lưu niệm tại làng nghề điêu khắc đá Non Nước.</li></ul><strong>Trưa:</strong>&nbsp;&nbsp; Dùng cơm trưa.<ul><li>Đến <strong>Hội An</strong>, tham quan <strong>Phố Cổ Hội An</strong> -<em> di sản văn hoá thế giới với Chùa Cầu Nhật Bản, Hội Quán Phúc Kiến, Nhà Cổ Phùng Hưng</em>…</li></ul>&nbsp;<div style='text-align: center;'><img alt='' src='/images/bandidau/NOI-DIA/Da-Nang/pho-co-hoi-an-du-lich-hoi-an-2023.jpg' style='width: 700px; height: 389px;'><br><em>Phố cổ Hội An</em><br>&nbsp;</div><strong>Chiều:</strong>&nbsp; Dùng cơm chiều.<ul><li>Trải nghiệm Show diễn <strong>“Ký Ức Hội An”, </strong>chương trình<strong> </strong>văn hóa nghệ thuật ngoài trời độc đáo, với sự tổng hòa tinh tế của âm nhạc, thơ ca, ánh sáng, nghệ thuật trình diễn 3D, tạo hình, múa… Vở diễn là câu chuyện tái hiện lại những nét văn hóa đặc trưng của Hội An 400 năm lịch sử với cuộc sống thôn quê bình dị, tới những nét hoàng kim của một thương cảng sầm uất một thời. <em>(chi phí tự túc)</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li>Đoàn trở về, nghỉ đêm tại <strong>Đà Nẵng</strong>.</li></ul><p></p>"
+                },
+                {
+                        "schedule_name":"TP HCM - ĐN - HN",
+                        "schedule_detail":"<p><strong>Sáng:</strong> Quý khách có mặt tại ga quốc nội, sân bay Tân Sơn Nhất trước giờ bay ít nhất ba tiếng<strong>.</strong></p><ul><li style='text-align: justify;'>Đại diện công ty <strong>Du Lịch Việt</strong> đón và hỗ trợ Quý Khách làm thủ tục đón chuyến bay đi <strong>Đà Nẵng.</strong></li><li style='text-align: justify;'>Đến sân bay<strong>,</strong> Hướng dẫn viên đón đoàn Tham quan <strong>Ngũ Hành Sơn</strong> - được ví như hòn non bộ khổng lồ giữa lòng thành phố Đà Nẵng với <strong>Động Huyền Không, Chùa Linh Ứng, Chùa Tam Thai, Vọng Hải Đài</strong>, …mua sắm quà lưu niệm tại làng nghề điêu khắc đá Non Nước.</li></ul><strong>Trưa:</strong>&nbsp;&nbsp; Dùng cơm trưa.<ul><li>Đến <strong>Hội An</strong>, tham quan <strong>Phố Cổ Hội An</strong> -<em> di sản văn hoá thế giới với Chùa Cầu Nhật Bản, Hội Quán Phúc Kiến, Nhà Cổ Phùng Hưng</em>…</li></ul>&nbsp;<div style='text-align: center;'><img alt='' src='/images/bandidau/NOI-DIA/Da-Nang/pho-co-hoi-an-du-lich-hoi-an-2023.jpg' style='width: 700px; height: 389px;'><br><em>Phố cổ Hội An</em><br>&nbsp;</div><strong>Chiều:</strong>&nbsp; Dùng cơm chiều.<ul><li>Trải nghiệm Show diễn <strong>“Ký Ức Hội An”, </strong>chương trình<strong> </strong>văn hóa nghệ thuật ngoài trời độc đáo, với sự tổng hòa tinh tế của âm nhạc, thơ ca, ánh sáng, nghệ thuật trình diễn 3D, tạo hình, múa… Vở diễn là câu chuyện tái hiện lại những nét văn hóa đặc trưng của Hội An 400 năm lịch sử với cuộc sống thôn quê bình dị, tới những nét hoàng kim của một thương cảng sầm uất một thời. <em>(chi phí tự túc)</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li>Đoàn trở về, nghỉ đêm tại <strong>Đà Nẵng</strong>.</li></ul><p></p>"
+                }
+
+        ],
+        "price_policy": [
+                {"price_include": ""},
+                {"price_not_include": ""}
+        ],
+        "infor_visa": "",
+        "rules":"",
+        "expected cost":"",
+        "rate":"",
+        "comments": [
+                {
+                        "user": {
+                                "user_id":"",
+                                "user_name":"Nguyen The Duong",
+                                "avatar":""
+                        },
+                        "comment":"this is a comment",
+                        "created":"23/11/2023",
+                        "replies":[
+                                {
+                                        "comment":"This is comment reply",
+                                        "user": {
+                                                "user_id":"",
+                                                "user_name":"Chat Bot",
+                                                "avatar":""
+                                        },
+                                        "created":""
+                                },
+                                {
+                                        "comment":"This is comment reply",
+                                        "user": {
+                                                "user_id":"",
+                                                "user_name":"Chat Bot",
+                                                "avatar":""
+                                        },
+                                        "created":""
+                                }
+                        ]
+                
+                }
+        ],
+        "supplier":{
+                "id":"",
+                "logo_path":"",
+                "name":"CÔNG TY TNHH KẾT NỐI DU LỊCH",
+                "rate":""
+        }
+}
